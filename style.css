@@ -1,0 +1,30 @@
+h1{
+   color:black ;
+}
+
+.header{
+     background-color:deeppink;
+     display:flex;
+     justify-content: space-between;
+}
+.grid {
+     border: 2px solid black;
+     border-radius: 50px;
+     display: flex;
+     flex-wrap: wrap;
+}
+.menu{
+     display: flex;
+     justify-content:space-between;
+     font-size: 20px;
+     font-family: algerian;
+     font-weight: 400;
+}
+.origami{
+     border-radius: 20px;
+     background-color: white;
+     width:310px;
+     font-family:calibri;
+     
+}
+
